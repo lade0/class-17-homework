@@ -5,7 +5,7 @@ try:
     if result%2==0:
         print(result,"is an even number")
     else:
-        print(result,"is an odd number")
+        print(result,"is an odd")
 except ValueError:
     print("enter something valid")
     
